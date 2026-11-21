@@ -42,7 +42,7 @@ The logic lives in `Assets/Scripts/ImageTrackingHandler.cs`, attached to the XR 
 
 ## The marker
 
-- Marker image: `Marker/[filename]`
+- Marker image: `Marker-https://github.com/the-nova-guy/ARImageTracking/blob/main/Assets/Assets/Image/2026%20Singapore%20GP%20-%20Max%20Verstappen%207.png`
 - Printed size: **[for example 15 cm x 15 cm]**. The Reference Image Library has the same physical size set, so print it at that width.
 - Print it flat, in colour, on matte paper if possible, and avoid glare. You can also display it full-screen on a monitor or another phone at high brightness.
 
